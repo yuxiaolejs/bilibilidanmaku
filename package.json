@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "axios": "^1.6.2",
+    "ws": "^8.15.1"
+  },
+  "name": "bilibilidanmaku",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Unics Yu",
+  "license": "ISC",
+  "description": "A bilibili danmaku client for node.js"
+}
