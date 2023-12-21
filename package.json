@@ -3,7 +3,7 @@
     "axios": "^1.6.2",
     "ws": "^8.15.1"
   },
-  "name": "bilibilidanmaku",
+  "name": "yabd",
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,5 @@
   },
   "author": "Unics Yu",
   "license": "ISC",
-  "description": "A bilibili danmaku client for node.js"
+  "description": "Yet Another Bilibili Danmaku client for node.js"
 }

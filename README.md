@@ -8,12 +8,12 @@
 
 ## 安装
 ```
-npm i bilibilidanmaku
+npm i yabd
 ```
 
 ## 使用：
 ```
-const Danmaku = require('bilibilidanmaku');
+const Danmaku = require('yabd');
                             // 这里填入你哔哩哔哩的cookie (目前没找到优雅的获取方案...)
 let danmaku = new Danmaku(`buvid3=; b_nut=; i-wanna-go-back=-1; b_ut=7; _uuid=; enable_web_push=DISABLE; ...`);
 danmaku.connect(68905);
