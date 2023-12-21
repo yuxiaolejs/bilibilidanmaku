@@ -1,6 +1,10 @@
 # 哔哩哔哩弹幕姬 For Node.js
 又一个给nodejs开发的哔哩哔哩弹幕姬。之前用的那几个都不维护了，也用不了了，希望这个能维护下去吧~
 
+因为bilibili-dankamu这个名字已经被占用，故取用`Yet Another Bilibili Danmaku`的首字母`yabd`作为包名
+
+本来打算用ts写的，奈何太菜...球球大佬们帮忙写一下8
+
 # 特别鸣谢！
 感谢 @lovelyyoshino 大佬提供的websocket协议！
 
